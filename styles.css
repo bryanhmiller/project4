@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+}
+
+.small {
+	height: 200px;
+	width: 200px;
+}
+
+.winner {
+	position: absolute;
+	height: 400px;
+	width: 400px;
+	left: 50%;
+	margin-left: -200px;
+	margin-top: 80px;
+}
+
+p {
+	margin: 0 50px;
+}
